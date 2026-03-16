@@ -1,112 +1,77 @@
-# Hi 👋 I'm Yogesh Amane
+## 👋 Hi, I'm Yogesh Amane
 
-💻 Full Stack Web Developer
-🚀 Specializing in PHP, JavaScript, E-commerce Integrations & CRM Dashboards
+I am a **Full Stack Web Developer with 5+ years of experience** building scalable web applications, eCommerce platforms, and data-driven dashboards. Currently working as **Assistant Manager – PHP & BigCommerce Developer at Waaree Energies Ltd., Mumbai**.
 
----
+I specialize in developing **CRM systems, automation tools, and eCommerce integrations** that improve operational efficiency and customer experience.
 
-# 👨‍💻 About Me
+### 🚀 What I Do
 
-* 🔧 Full Stack Developer working with **PHP, JavaScript, MySQL**
-* 🛒 Experience with **BigCommerce & Shopify integrations**
-* 💳 Implemented **Payment Gateway integrations (SBIePay)**
-* 📊 Built **CRM dashboards & lead management systems**
-* ⚡ Passionate about building **scalable backend systems**
+* Develop **full stack web applications using PHP, JavaScript, and MySQL**
+* Build **CRM and Lead Management systems**
+* Develop and customize **BigCommerce, Shopify, and WordPress platforms**
+* Integrate **payment gateways, APIs, and webhooks**
+* Build **analytics dashboards and reporting systems**
+* Automate workflows using **cron jobs and API integrations**
 
----
+### 🧰 Tech Stack
 
-# 🧠 Tech Stack
+**Frontend**
 
-## Languages
+* HTML5, CSS3, JavaScript
+* jQuery, Bootstrap
+* React (learning & experimenting)
 
-* PHP
-* JavaScript (ES6+)
-* SQL
-* HTML5
-* CSS3
+**Backend**
 
-## Frontend
+* PHP (Core PHP)
+* REST API Development
+* Webhooks & Automation
 
-* React.js
-* jQuery
-* Bootstrap
-* Tailwind CSS
-* DataTables
-* ApexCharts
-* Select2
-
-## Backend
-
-* Core PHP
-* REST APIs
-* Webhooks
-* Authentication systems
-* Session management
-
-## Databases
+**Databases**
 
 * MySQL
-* PostgreSQL (basic)
 
-## E-commerce Platforms
+**E-commerce**
 
 * BigCommerce
 * Shopify
+* WooCommerce
 
-## Payment Integrations
+**Tools**
 
-* SBIePay
-* Payment callbacks
-* HMAC verification
-
----
-
-# 📊 Systems Built
-
-✔ CRM Lead Management Dashboard
-✔ WhatsApp Lead Management System
-✔ BigCommerce Payment Gateway Integration
-✔ Role Based Reporting Dashboards
-✔ Channel Partner Lead Tracking System
-
----
-
-# 🛠 Developer Tools
-
-* Git
-* GitHub
+* Git / GitHub
 * Postman
-* Composer
-* npm
-* cURL
+* cPanel / WHM
+* XAMPP
+
+### 🛠 Notable Work
+
+* Built **Lead Management System integrating WhatsApp BOT → CRM → PHP Application**
+* Developed **Digital Onboarding Portal for Channel Partners**
+* Built **Fault Detection System for manufacturing plant operations**
+* Developed **Expert Certificate Generation Portal**
+* Implemented **BigCommerce automation with webhooks for order notifications**
+* Built **Solar Calculator, Product Search Engine & Customer Review Systems**
+
+### 🌐 Platforms I Have Worked On
+
+* BigCommerce
+* Shopify Plus
+* WordPress
+* Custom PHP Applications
+
+### 📈 Focus Areas
+
+* Full Stack Web Development
+* eCommerce Systems
+* API Integrations
+* CRM & Business Automation Platforms
+
+### 📫 Connect With Me
+
+📧 Email: [ybamane2@gmail.com](mailto:ybamane2@gmail.com)
+💻 GitHub: https://github.com/amadocs
 
 ---
 
-<!--
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
--->
-# 🚀 Current Learning
-
-* React Full Stack Development
-* Next.js
-* Cloud Deployments
-* Scalable System Design
-
----
-
-# 📫 Contact
-
-📧 Email: ybamane2@gmail.com](mailto:ybamane2@gmail.com)
-<!-- 🌐 Portfolio: https://gayotech.in
-💼 LinkedIn: https://linkedin.com/in/yourprofile
--->
-
----
-
-⭐ If you like my work, consider starring my repositories.
+⭐ I enjoy building systems that combine **business automation, scalable architecture, and clean user experiences**.
