@@ -82,6 +82,7 @@
 
 ---
 
+/*
 # 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
@@ -89,7 +90,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
-
+*/
 # 🚀 Current Learning
 
 * React Full Stack Development
@@ -101,9 +102,10 @@
 
 # 📫 Contact
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🌐 Portfolio: https://yourwebsite.com
+📧 Email: ybamane2@gmail.com](mailto:ybamane2@gmail.com)
+/*🌐 Portfolio: https://gayotech.in
 💼 LinkedIn: https://linkedin.com/in/yourprofile
+*/
 
 ---
 
