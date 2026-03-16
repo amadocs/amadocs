@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Yogesh Amane
 
 I am a **Full Stack Web Developer with 5+ years of experience** building scalable web applications, eCommerce platforms, and data-driven dashboards. 
-/*Currently working as Assistant Manager – PHP & BigCommerce Developer. */
+/* Currently working as Assistant Manager – PHP & BigCommerce Developer. */
 
 I specialize in developing **CRM systems, automation tools, and eCommerce integrations** that improve operational efficiency and customer experience.
 
